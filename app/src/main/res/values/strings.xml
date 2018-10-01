@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movie Collection</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="image_url">Image URL</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="show">Show</string>
+    <string name="delTitle">Delete?</string>
+    <string name="delMsg">Are you Sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="edit">Edit</string>
+    <string name="canceled">Canceled</string>
+    <string name="movie_image">movie image</string>
+    <string name="add_to_list">add to list</string>
+    <string name="img_url">img @url</string>
+    <string name="img_cam">img @cam</string>
+    <string name="Add_new_movie">Add New Movie</string>
+    <string name="Please_select">Please select</string>
+    <string name="Web">Web</string>
+    <string name="choose">Choose</string>
+    <string name="manual">Manual</string>
+    <string name="wait">Please wait</string>
+    <string name="suck">Sucking Data from JSON</string>
+    <string name="error">Error! Please try again</string>
+    <string name="missing_info">Please enter title and image path to save movie</string>
+    <string name="missing_img">Image is missing, please enter image url</string>
+    <string name="delete_all">Delete All</string>
+    <string name="exit">Exit</string>
+    <string name="exitUser">it has been a pleasure to serve you</string>
+</resources>

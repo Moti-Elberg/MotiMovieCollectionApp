@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אפליקציית סרטים</string>
+    <string name="add">הוסף</string>
+    <string name="search">חפש</string>
+    <string name="search_movie">הקלד שם לחיפוש</string>
+    <string name="movie_title">שם הסרט</string>
+    <string name="release_date">תאריך הוצאה</string>
+    <string name="overview">תקציר</string>
+    <string name="image_url">קישור לתמונה</string>
+    <string name="save">שמור</string>
+    <string name="update">עדכן</string>
+    <string name="delTitle">הזדמנות אחרונה להתחרט...</string>
+    <string name="delMsg">האם האתה בטוח שברצונך למחוק?</string>
+    <string name="show">הצג</string>
+    <string name="no">לא</string>
+    <string name="yes">כן</string>
+    <string name="edit">ערוך</string>
+    <string name="canceled">בוטל</string>
+    <string name="movie_image">תמונת הסרט</string>
+    <string name="add_to_list">הוסף לרשימה</string>
+    <string name="img_url">תמונה מתוך קישור</string>
+    <string name="img_cam">תמונה מתוך מצלמה</string>
+    <string name="add_new_movie">הוסף סרט לרשימה</string>
+    <string name="choose">בחר מקור</string>
+    <string name="web">אינטרנט</string>
+    <string name="manual">ידני</string>
+    <string name="wait">המתן</string>
+    <string name="suck">שואב מידע מהאינטרנט (JSON)</string>
+    <string name="error">שגיאה, אנא נסה שנית</string>
+    <string name="missing_info">הכנס שם סרט ונתיב תמונה</string>
+    <string name="missing_img">אין תמונה לתצוגה, אנא הכנס קישור תקין</string>
+    <string name="delete_all">מחק רשימה</string>
+    <string name="exit">יציאה</string>
+    <string name="exitUser">תודה שהשתמשת באפליקציה שלנו</string>
+
+</resources>
